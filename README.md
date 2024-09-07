@@ -1,16 +1,11 @@
-# ben_bilirim
+#Sinema Bileti Alma Uygulaması
 
-A new Flutter project.
+Bu proje, kullanıcıların sinema biletlerini hızlı ve kolay bir şekilde seçip satın alabilecekleri bir mobil uygulamadır. Kullanıcılar mevcut filmleri görüntüleyebilir, seansları inceleyebilir ve istedikleri koltukları seçerek biletlerini alabilirler.
 
-## Getting Started
+Özellikler
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Film Listesi: Kullanıcılar güncel vizyondaki filmleri görüntüleyebilir.
+Seans Seçimi: Film seanslarını ve salon detaylarını görebilirler.
+Koltuk Seçimi: İstediği koltuğu seçerek biletini rezerve edebilir.
+Ödeme Ekranı: Bilet satın alma işlemini tamamlamak için ödeme yapabilirler.
+Sipariş Özeti: Alınan biletlerin özeti ve detayları.
