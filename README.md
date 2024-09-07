@@ -5,7 +5,11 @@ Bu proje, kullanıcıların sinema biletlerini hızlı ve kolay bir şekilde se�
 Özellikler
 
 Film Listesi: Kullanıcılar güncel vizyondaki filmleri görüntüleyebilir.
+
 Seans Seçimi: Film seanslarını ve salon detaylarını görebilirler.
+
 Koltuk Seçimi: İstediği koltuğu seçerek biletini rezerve edebilir.
+
 Ödeme Ekranı: Bilet satın alma işlemini tamamlamak için ödeme yapabilirler.
+
 Sipariş Özeti: Alınan biletlerin özeti ve detayları.
