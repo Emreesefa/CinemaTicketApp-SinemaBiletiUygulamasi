@@ -33,4 +33,5 @@ Sipariş Özeti: Alınan biletlerin özeti ve detayları.
 ![sinema4](https://github.com/user-attachments/assets/c6088305-d999-449a-ae48-d1a3c164b156)
 
 
+[Merhaba](url)
 
