@@ -2,6 +2,18 @@
 
 Bu proje, kullanıcıların sinema biletlerini hızlı ve kolay bir şekilde seçip satın alabilecekleri bir mobil uygulamadır. Kullanıcılar mevcut filmleri görüntüleyebilir, seansları inceleyebilir ve istedikleri koltukları seçerek biletlerini alabilirler.
 
+*Özellikler*
+
+Film Listesi: Kullanıcılar güncel vizyondaki filmleri görüntüleyebilir.
+
+Seans Seçimi: Film seanslarını ve salon detaylarını görebilirler.
+
+Koltuk Seçimi: İstediği koltuğu seçerek biletini rezerve edebilir.
+
+Ödeme Ekranı: Bilet satın alma işlemini tamamlamak için ödeme yapabilirler.
+
+Sipariş Özeti: Alınan biletlerin özeti ve detayları.
+
 *Ekran Görüntüleri*
 
 *Film Seçme Ekranı*
@@ -21,14 +33,4 @@ Bu proje, kullanıcıların sinema biletlerini hızlı ve kolay bir şekilde se�
 ![sinema4](https://github.com/user-attachments/assets/c6088305-d999-449a-ae48-d1a3c164b156)
 
 
-*Özellikler*
 
-Film Listesi: Kullanıcılar güncel vizyondaki filmleri görüntüleyebilir.
-
-Seans Seçimi: Film seanslarını ve salon detaylarını görebilirler.
-
-Koltuk Seçimi: İstediği koltuğu seçerek biletini rezerve edebilir.
-
-Ödeme Ekranı: Bilet satın alma işlemini tamamlamak için ödeme yapabilirler.
-
-Sipariş Özeti: Alınan biletlerin özeti ve detayları.
